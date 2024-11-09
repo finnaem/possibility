@@ -28,7 +28,7 @@ twitter_username: emmafionn
 github_username:  finnaem
 
 # Build settings
-theme: brutalist-blog
+theme: minima
 plugins:
   - jekyll-feed
 
